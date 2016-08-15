@@ -1,2 +1,2 @@
 # hello-word
-Creating directory tutorial
+Creating directory tutorial and editing the readme file.
